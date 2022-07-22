@@ -58,7 +58,7 @@ nav ul li a{
     text-decoration: none;
     display: block;
     color: #f5e45f;
-    font-size: 170%;
+    font-size: 3.5vw;
     font-weight: bold;
     width: 100%;
     height: inherit;
@@ -215,6 +215,7 @@ footer{
     padding-top: 1.5vh;
     background-color: #fd7a39;
     font-weight: bold;
+    
 }
 
 .f-logo img{
@@ -224,6 +225,7 @@ footer{
 }
 
 .f-titulo{
+    font-size: 1vw;
     color: #f5e45f;
     padding-top: 4%;
     text-align: center;
